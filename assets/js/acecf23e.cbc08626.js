@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktest=self.webpackChunktest||[]).push([[1903],{1912:o=>{o.exports=JSON.parse('{"blogBasePath":"/HoloRoomTestbed/blog","blogTitle":"Blog","authorsListPath":"/HoloRoomTestbed/blog/authors"}')}}]);
