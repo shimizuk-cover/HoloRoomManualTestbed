@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkholo_room_manual_testbed=self.webpackChunkholo_room_manual_testbed||[]).push([[6091],{7728:o=>{o.exports=JSON.parse('{"metadata":{"permalink":"/HoloRoomManualTestbed/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

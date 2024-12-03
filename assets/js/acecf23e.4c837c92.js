@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkholo_room_manual_testbed=self.webpackChunkholo_room_manual_testbed||[]).push([[1903],{1912:o=>{o.exports=JSON.parse('{"blogBasePath":"/HoloRoomManualTestbed/blog","blogTitle":"Blog","authorsListPath":"/HoloRoomManualTestbed/blog/authors"}')}}]);
