@@ -1,47 +1,72 @@
----
-sidebar_position: 1
----
+# マニュアルHTML化テスト
 
-# Tutorial Intro
+# ホロライブアプリv3 マニュアル
 
-Let's discover **Docusaurus in less than 5 minutes**.
+# インストール&ログイン
 
-## Getting Started
+## **インストール方法（Windows PC）**
 
-Get started by **creating a new site**.
+Discordで公開しているURLから、最新版のアプリのインストーラをダウンロードしてください。
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+インストール後、デスクトップのショートカットをダブルクリックして起動してください。
 
-### What you'll need
+（チェックボックスがONでない場合、iPhoneとの通信が失敗する場合があります。）
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+初回起動時に右のようなウィンドウが表示されます。両方のチェックボックスをONにして「アクセスを許可する」をクリックしてください。
 
-## Generate a new site
+![install_notify.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/b8b535f3-8f79-41d4-84bb-4edb2c862883/04550897-27de-498e-8a4a-537730a9233d/install_notify.png)
 
-Generate a new Docusaurus site using the **classic template**.
+## **インストール方法（iOS版）**
 
-The classic template will automatically be added to your project after you run the command:
+iOS版のホロライブアプリは**「アプリカタログ」**で管理を行っています。
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+TestFlightから順次移行を実施しております。
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+アプリカタログへの移行に関しては、
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+[**コチラ**](https://drive.google.com/file/d/1dKE0YNbGgZh6UKjKoBuoZudpY0C-juU9/view?usp=sharing)
 
-## Start your site
+を御覧ください。
 
-Run the development server:
+## ログイン
 
-```bash
-cd my-website
-npm run start
-```
+1. 「Googleでログイン」をクリックしてください。
 
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
+   ![login_dialog.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/b8b535f3-8f79-41d4-84bb-4edb2c862883/a63dbf4a-0070-404b-800a-22772faa729d/a3d37a1c-8c80-47b6-a59f-20d8d153b2dc.png)
 
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
+2. （「パスワードでログイン」はスタッフ用になります。）
+3. 「Googleでログイン」をクリックしてください。
 
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+   ![login_dialog_googleaccount.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/b8b535f3-8f79-41d4-84bb-4edb2c862883/afd6c293-a36c-4ebf-8694-7fda5d7e524e/login_dialog_googleaccount.png)
+
+4. （「パスワードでログイン」はスタッフ用になります。）
+
+# 初期設定と配信開始までの流れ
+
+## **初期設定**
+
+ログイン後、「SETTINGS」ボタンを押します。
+
+![settings_mainmenu.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/b8b535f3-8f79-41d4-84bb-4edb2c862883/185f3b82-137e-4b1b-bd63-9804f1697a33/settings_mainmenu.png)
+
+## **言語選択**
+
+## **iPhoneから表情トラッキング情報の送信**
+
+## **顔の向きのキャリブレーション**
+
+## **モデルの選択**
+
+## **アクセサリの選択**
+
+# 画面と操作説明
+
+# コラボ機能
+
+# 共通アクセサリ機能
+
+# 画像貼り付け機能
+
+# 顔の動き調整（3D）
+
+# iPhoneハンドトラッキング
