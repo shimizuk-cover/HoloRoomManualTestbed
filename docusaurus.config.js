@@ -18,7 +18,7 @@ const config = {
   url: 'https://shimizuk-cover.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/HoloRoomManualTestbed/',
+  baseUrl: '/HoloRoomTestbed/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -33,7 +33,19 @@ const config = {
   // may want to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
-    locales: ['en'],
+    locales: ['en', 'ja'],
+    localeConfigs: {
+      en: {
+        path: 'en',
+        label: 'English',
+        direction: 'ltr',
+      },
+      ja: {
+        path: 'ja',
+        label: '日本語',
+        direction: 'ltr',
+      },
+    },
   },
 
   presets: [
@@ -92,6 +104,10 @@ const config = {
           {
             href: 'https://github.com/facebook/docusaurus',
             label: 'GitHub',
+            position: 'right',
+          },
+          {
+            type: 'localeDropdown',
             position: 'right',
           },
         ],
