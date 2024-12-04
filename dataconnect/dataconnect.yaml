@@ -1,0 +1,12 @@
+specVersion: "v1beta"
+serviceId: "HoloRoomManualTestbed"
+location: "us-central1"
+schema:
+  source: "./schema"
+  datasource:
+    postgresql:
+      database: "fdcdb"
+      cloudSql:
+        instanceId: "HoloRoomManualTestbed-fdc"
+      # schemaValidation: "COMPATIBLE"
+connectorDirs: ["./connector"]
