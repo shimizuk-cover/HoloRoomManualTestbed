@@ -23,14 +23,14 @@ const sidebars = {
     'intro',
     {
       type: 'category',
-      label: 'tutorialBasics',
+      label: 'Tutorial - Basics',
       items: [
           'tutorial-basics/basics'
       ],
     },
     {
       type: 'category',
-      label: 'tutorialExtras',
+      label: 'Tutorial - Extras',
       items: [
         'tutorial-extras/extras'
       ],

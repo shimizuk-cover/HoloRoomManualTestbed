@@ -3,12 +3,12 @@
     "message": "Next",
     "description": "The label for version current"
   },
-  "sidebar.tutorialSidebar.category.tutorialBasics": {
-    "message": "基本チュートリアル",
-    "description": "The label for category sidebar.tutorialBasics in sidebar tutorialSidebar"
+  "sidebar.tutorialSidebar.category.Tutorial - Basics": {
+    "message": "チュートリアル（基本編）",
+    "description": "The label for category Tutorial - Basics in sidebar tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.tutorialExtras": {
-    "message": "追加チュートリアル",
-    "description": "The label for category sidebar.tutorialExtras in sidebar tutorialSidebar"
+  "sidebar.tutorialSidebar.category.Tutorial - Extras": {
+    "message": "チュートリアル（応用編）",
+    "description": "The label for category Tutorial - Extras in sidebar tutorialSidebar"
   }
 }
