@@ -35,15 +35,7 @@ const config = {
   // may want to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'ja',
-    locales: ['en', 'ja'],
-    localeConfigs: {
-      en: {
-        label: 'English',
-      },
-      ja: {
-        label: '日本語',
-      },
-    },
+    locales: ['ja'],
   },
 
   presets: [
@@ -77,21 +69,17 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'My Site',
+        title: 'HoloLiveApp Handbook',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
         },
         items: [
-          // {
-          //   type: 'docSidebar',
-          //   sidebarId: 'tutorialSidebar',
-          //   position: 'left',
-          //   label: 'Tutorial',
-          // },
           {
-            type: 'localeDropdown',
-            position: 'right',
+            type: 'docSidebar',
+            sidebarId: 'tutorialSidebar',
+            position: 'left',
+            label: 'ハンドブック',
           },
         ],
       },
