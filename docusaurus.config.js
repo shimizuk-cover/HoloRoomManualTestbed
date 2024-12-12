@@ -59,7 +59,7 @@ const config = {
         path: "./.env",
         systemvars: true,
       }
-    ]
+    ],
   ],
 
   themeConfig:
@@ -76,10 +76,22 @@ const config = {
         items: [
           {
             type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
+            sidebarId: 'hololiveapp',
             position: 'left',
-            label: 'ホロライブアプリ',
+            label: 'HoloLiveApp',
           },
+          {
+            type: 'docSidebar',
+            sidebarId: 'holoroom',
+            position: 'left',
+            label: 'HoloRoom',
+          },
+          {
+            type: 'docSidebar',
+            sidebarId: 'holokaraoke',
+            position: 'left',
+            label: 'HoloKaraoke',
+          }
         ],
       },
       prism: {

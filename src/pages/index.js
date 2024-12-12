@@ -43,5 +43,5 @@ export default function Home() {
   //     </main>
   //   </Layout>
   // );
-    return <Redirect to="docs/intro/"/>;
+    return <Redirect to="docs/hololiveapp/intro/"/>;
 }
