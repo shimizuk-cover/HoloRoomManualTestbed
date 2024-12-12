@@ -1,7 +1,7 @@
 ---
-sidebar_position: 3
+sidebar_position: 2
 ---
-# png/gif画像貼り付け
+# png/gif画像貼り付け（高）
 
 ## Live2D
 

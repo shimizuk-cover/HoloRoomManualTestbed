@@ -5,5 +5,5 @@ sidebar_position: 2
 
 ## OBSへの画面出力
 
-Spoutだけでいいと思っている
+## 背景の設定
 
