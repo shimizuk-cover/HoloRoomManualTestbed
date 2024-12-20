@@ -25,8 +25,6 @@ LANSCOPE Clientに**会社名**と**管理No**が表示されます。
 表示されない場合、LANSCOPE Clientを再起動することで反映されることがあります。
 :::
 
-次は、
-
 ## LANSCOPE Clientがない / 消してしまった場合
 
 AppStoreからダウンロードし直すことで復元できます。
