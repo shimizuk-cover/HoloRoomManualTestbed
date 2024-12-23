@@ -25,8 +25,9 @@ LANSCOPE Clientに**会社名**と**管理No**が表示されます。
 表示されない場合、LANSCOPE Clientを再起動することで反映されることがあります。
 :::
 
-## LANSCOPE Clientがない / 消してしまった場合
-
-AppStoreからダウンロードし直すことで復元できます。
-
+:::caution
+LANSCOPE Clientがない、または、消してしまった場合はAppStoreからダウンロードし直すことで復元できます。
 ![img_19.png](img_19.png)
+:::
+
+次は、いよいよ[ホロライブアプリをインストール](../B/install-hololiveapp.md)しましょう！
