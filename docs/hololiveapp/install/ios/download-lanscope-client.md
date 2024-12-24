@@ -1,13 +1,13 @@
 ---
-sidebar_position: 3
+sidebar_position: 4
 ---
 # 3. LANSCOPE Clientをダウンロードする
 
 1. 申請後発行されたQRをカメラアプリで写し、表示されたURLをタップします。  
-![img_2.png](img_2.png)
+![img_2.png](A/img_2.png)
 
 2. **許可**をタップして、ダウンロードが終わるまで待ちます。  
-![img_3.png](img_3.png)
+![img_3.png](A/img_3.png)
 
 3. ダウンロードが終わると、「**プロファイルがダウンロードされました**」と表示されるので、**閉じる**をタップします。  
-![img_4.png](img_4.png)
+![img_4.png](A/img_4.png)

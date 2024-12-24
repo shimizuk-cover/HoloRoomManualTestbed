@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+sidebar_position: 3
 ---
 # 2. タレントアプリチームに申請する
 
@@ -12,5 +12,5 @@ iPhoneの背面に貼られている”**D-XX**”のような番号を確認し
 
 Slack「ク_技_タレントアプリチームへの依頼と相談」からワークフローにて申請をお願いします。
 
-![img.png](img.png)
-![img_1.png](img_1.png)
+![img.png](A/img.png)
+![img_1.png](A/img_1.png)
