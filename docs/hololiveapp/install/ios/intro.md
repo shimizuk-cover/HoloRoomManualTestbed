@@ -17,4 +17,4 @@ iOS版のホロライブアプリは「**アプリカタログ**」というア�
 これらのアプリが入っていない場合は[1. 事前準備](prepare-iphone.md)を、  
 入っている場合は[7. ホロライブアプリをインストールする](install-hololiveapp.md)を参照してください。
 
-簡略版は[こちら](hololiveapp-install-guide.pdf)からご確認できます。
+簡略版は[こちら](../../../../static/docs/hololiveapp-install-guide.pdf)からご確認できます。
