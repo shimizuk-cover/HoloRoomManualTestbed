@@ -5,10 +5,10 @@ sidebar_position: 1
 
 会社から支給されたiPhoneを準備します。
 
-:::danger
+:::caution
 **私物のiPhoneでは行わないでください。**
 :::
 
-:::caution
+:::note
 インストールを行う際には、**Wi-fiか電波環境の良い場所で充電しながら行ってください。**
 :::
