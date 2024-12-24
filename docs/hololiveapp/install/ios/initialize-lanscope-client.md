@@ -26,4 +26,4 @@ LANSCOPE Clientがない、または、消してしまった場合はAppStoreか
 ![img_19.png](A/img_19.png)
 :::
 
-次は、いよいよ[ホロライブアプリをインストール](../B/install-hololiveapp.md)しましょう！
+次は、いよいよ[ホロライブアプリをインストール](install-hololiveapp.md)しましょう！
