@@ -1,9 +1,7 @@
 ---
 sidebar_position: 1
 ---
-# 配信の始め方
-
-## OBSにモデルを入れる
+# OBSにキャラクターを表示させる
 
 1. **Spout2**というプラグインを以下のリンクからインストールします。  
 https://github.com/Off-World-Live/obs-spout2-plugin/releases
@@ -23,3 +21,5 @@ https://github.com/Off-World-Live/obs-spout2-plugin/releases
 2. **背景透過**にチェックを入れます。  
 ![img_3.png](img_3.png)
 :::
+
+あとは、OBSを設定して、配信を始めてみましょう！
