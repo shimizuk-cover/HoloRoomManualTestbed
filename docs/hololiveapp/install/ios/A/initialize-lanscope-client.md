@@ -21,11 +21,11 @@ LANSCOPE Clientに**会社名**と**管理No**が表示されます。
 
 ![img_18.png](img_18.png)
 
-:::tip
+:::info
 表示されない場合、LANSCOPE Clientを再起動することで反映されることがあります。
 :::
 
-:::caution
+:::note
 LANSCOPE Clientがない、または、消してしまった場合はAppStoreからダウンロードし直すことで復元できます。
 ![img_19.png](img_19.png)
 :::

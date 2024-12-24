@@ -19,7 +19,7 @@ sidebar_position: 4
 
 ![img_8.png](img_8.png)
 
-:::caution
+:::note
 **LANSCOPE Profile Service**が表示されていない場合、プロファイルデータのダウンロードに失敗している可能性があります。  
 「[3. LANSCOPE Clientをダウンロードする](download-lanscope-client.md)」を再度お試しください。  
 改善されない場合は、タレントアプリチームへお問い合わせください。

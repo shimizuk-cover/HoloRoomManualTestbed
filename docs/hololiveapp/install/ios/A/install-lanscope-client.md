@@ -37,7 +37,7 @@ sidebar_position: 5
 
 ![img.png](../img.png)
 
-:::caution
+:::note
 3つのアプリがダウンロードされない場合、LANSCOPE側の設定漏れの可能性があります。
 タレントアプリチームへご連絡ください。
 :::
