@@ -9,7 +9,7 @@ PC版の手順であれば「【PC】」を、iOS版の手順であれば「【i
 ## 言語設定
 
 <details>
-  <summary>PC版で言語設定をする場合</summary>
+  <summary>PC版で言語設定をする</summary>
 
 1. 【PC】**SETTINGSボタン**をクリックします。
    ![img.png](img.png)
@@ -19,7 +19,7 @@ PC版の手順であれば「【PC】」を、iOS版の手順であれば「【i
 </details>
 
 <details>
-  <summary>iOS版で言語設定をする場合</summary>
+  <summary>iOS版で言語設定をする</summary>
 
 1. 【iOS】**SETTINGSボタン**をタップします。  
    ![img_5.png](img_5.png)
