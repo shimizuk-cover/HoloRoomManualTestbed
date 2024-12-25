@@ -8,14 +8,25 @@ PC版の手順であれば「【PC】」を、iOS版の手順であれば「【i
 
 ## 言語設定
 
+<details>
+  <summary>PC版で言語設定をする場合</summary>
+
 1. 【PC】**SETTINGSボタン**をクリックします。
-![img.png](img.png)
+   ![img.png](img.png)
 2. 【PC】**Language**から使用する言語を選択してください。  
-![img_1.png](img_1.png)
-3. 【iOS】**SETTINGSボタン**をタップします。  
-![img_5.png](img_5.png)
-4. 【iOS】**Language**から使用する言語を選択してください。  
-![img_6.png](img_6.png)
+   ![img_1.png](img_1.png)
+
+</details>
+
+<details>
+  <summary>iOS版で言語設定をする場合</summary>
+
+1. 【iOS】**SETTINGSボタン**をタップします。  
+   ![img_5.png](img_5.png)
+2. 【iOS】**Language**から使用する言語を選択してください。  
+   ![img_6.png](img_6.png)
+
+</details>
 
 ## iPhoneからフェイストラッキング情報を送信する
 
