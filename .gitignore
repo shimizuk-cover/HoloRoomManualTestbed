@@ -21,6 +21,3 @@ yarn-error.log*
 
 # Rider
 *.idea
-
-# .env
-.env
