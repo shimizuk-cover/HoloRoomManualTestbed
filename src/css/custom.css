@@ -29,7 +29,6 @@
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
 
-/* 画像の拡大表示 */
 .medium-zoom-overlay{
   z-index: 1000;
   backface-visibility: hidden;
@@ -43,19 +42,7 @@
   transform-style: preserve-3d;
 }
 
-/* 大きい文字 */
 .big-text {
   font-size: 24px;
   font-weight: bold;
-}
-
-/* 動画 */
-.video-box{
-  font-size: 13px;
-  color: var(--ifm-color-primary-light);
-}
-
-.video-box video{
-  max-width: 100%;
-  margin: 0;
 }
