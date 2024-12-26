@@ -45,7 +45,8 @@ PC版の手順であれば「【PC】」を、iOS版の手順であれば「【i
 7. 【iOS】4.の手順で表示したQRコードを読み取ってください。  
 ![img_8.png](img_8.png)
 8. 【PC】 【iOS】目をパチパチしたり、口をパクパクすると、キャラクターも動くことを確認してください。  
-![face_tracking.gif](/video/face_tracking.gif)
+![face_tracking.gif](/video/face_tracking.gif)  
+動画は[こちら](/video/face_tracking.mp4)
 
 :::note
 以上の操作をしても顔の同期ができない場合はFAQ(リンク差し込み予定)をご確認ください。
@@ -64,4 +65,5 @@ PC版の手順であれば「【PC】」を、iOS版の手順であれば「【i
 3. 【PC】2.の姿勢のまま、画面下部の**キャリブレーションボタン**をクリックしてください。  
 ![img_9.png](img_9.png)
 4. 【PC】顔を右に傾けると、キャラクターも自分から見て右に傾けることを確認してください。  
-![head.gif](/video/head.gif)
+![head.gif](/video/head.gif)  
+動画は[こちら](/video/head.mp4)
