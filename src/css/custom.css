@@ -29,31 +29,6 @@
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
 
-.video-box {
-  text-align: center; /* 動画とテキストを中央揃え */
-  margin: 20px 0; /* ページ内の間隔を調整 */
-}
-
-.video-box video {
-  max-width: 100%; /* 幅を親要素に収める */
-  height: auto; /* アスペクト比を維持 */
-  border: 1px solid #ccc; /* 枠線を追加（オプション） */
-  border-radius: 4px; /* 角丸（オプション） */
-}
-
-.video-box p {
-  font-size: 14px; /* フォントサイズを調整 */
-  color: var(--ifm-color-primary-darkest); /* テーマカラーに合わせる */
-  margin-top: 10px; /* 動画と説明文の間隔を調整 */
-}
-
-.img-desc{
-  font-size: 13px;
-  display: block;
-  margin-bottom: 1em;
-  color: var(--ifm-color-primary-darkest);
-}
-
 .medium-zoom-overlay{
   z-index: 1000;
   backface-visibility: hidden;
@@ -68,6 +43,6 @@
 }
 
 .big-text {
-  font-size: 24px; /* フォントサイズを指定 */
-  font-weight: bold; /* 太字にしたい場合 */
+  font-size: 24px;
+  font-weight: bold;
 }

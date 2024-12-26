@@ -7,7 +7,6 @@ iOS版のホロライブアプリのインストール方法について説明�
 
 図解は<span class="big-text">[こちら](/pdf/hololiveapp-install-guide.pdf)</span>からダウンロードできます。  
 ![img_1.png](img_1.png)
-<p class="img-desc">図解</p>
 
 iOS版のホロライブアプリは「**アプリカタログ**」というアプリからインストールできます。  
 アプリカタログを使用するためには下記の3つのアプリが必要です。
