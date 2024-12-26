@@ -3,10 +3,10 @@ sidebar_position: 1
 ---
 # はじめに
 
-iOS版のホロライブアプリのインストール方法について説明します。  
+iOS版のホロライブアプリのインストール方法について説明します。
 
 :::info
-図解はこちらをご確認ください。
+簡略版は[こちら](/pdf/hololiveapp-install-guide.pdf)  
 ![img_1.png](img_1.png)
 :::
 

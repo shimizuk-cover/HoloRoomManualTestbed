@@ -60,9 +60,7 @@ const config = {
         systemvars: true,
       },
     ],
-    [
-      'docusaurus-plugin-image-zoom',
-    ],
+    'docusaurus-plugin-image-zoom',
   ],
 
   themeConfig:
