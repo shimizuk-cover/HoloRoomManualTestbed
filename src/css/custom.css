@@ -33,7 +33,7 @@
   z-index: 1000;
   backface-visibility: hidden;
   transform-style: preserve-3d;
-  background: rgba(0, 0, 0, 0.5) !important;
+  background: rgba(0, 0, 0, 0.8) !important;
 }
 
 .medium-zoom-image--opened {
