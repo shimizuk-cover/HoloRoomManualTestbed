@@ -43,7 +43,7 @@
 
 .video-box p {
   font-size: 14px; /* フォントサイズを調整 */
-  color: var(--ifm-color-primary-light); /* テーマカラーに合わせる */
+  color: var(--ifm-color-primary-darkest); /* テーマカラーに合わせる */
   margin-top: 10px; /* 動画と説明文の間隔を調整 */
 }
 
@@ -51,7 +51,7 @@
   font-size: 13px;
   display: block;
   margin-bottom: 1em;
-  color: var(--ifm-color-primary-light);
+  color: var(--ifm-color-primary-darkest);
 }
 
 .medium-zoom-overlay{
@@ -65,4 +65,9 @@
   z-index: 1001;
   backface-visibility: hidden;
   transform-style: preserve-3d;
+}
+
+.big-text {
+  font-size: 24px; /* フォントサイズを指定 */
+  font-weight: bold; /* 太字にしたい場合 */
 }
