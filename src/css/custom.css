@@ -46,3 +46,23 @@
   color: var(--ifm-color-primary-light); /* テーマカラーに合わせる */
   margin-top: 10px; /* 動画と説明文の間隔を調整 */
 }
+
+.img-desc{
+  font-size: 13px;
+  display: block;
+  margin-bottom: 1em;
+  color: var(--ifm-color-primary-light);
+}
+
+.medium-zoom-overlay{
+  z-index: 1000;
+  backface-visibility: hidden;
+  transform-style: preserve-3d;
+  background: rgba(0, 0, 0, 0.5) !important;
+}
+
+.medium-zoom-image--opened {
+  z-index: 1001;
+  backface-visibility: hidden;
+  transform-style: preserve-3d;
+}

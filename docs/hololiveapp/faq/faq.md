@@ -23,3 +23,12 @@
 :::danger
 危険
 :::
+
+## トグルリストはどのような見た目ですか？
+
+<details>
+  <summary>タイトル</summary>
+
+概要
+
+</details>

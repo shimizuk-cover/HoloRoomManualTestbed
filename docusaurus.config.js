@@ -58,7 +58,10 @@ const config = {
       {
         path: "./.env",
         systemvars: true,
-      }
+      },
+    ],
+    [
+      'docusaurus-plugin-image-zoom',
     ],
   ],
 
@@ -97,6 +100,16 @@ const config = {
       prism: {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
+      },
+      zoom: {
+        selector: '.markdown img',
+        background: {
+          light: 'var(--ifm-background-surface-color)',
+          dark: 'var(--ifm-background-surface-color)'
+        },
+        config: {
+          // options you can specify via https://github.com/francoischalifour/medium-zoom#usage
+        }
       },
     }),
 };
